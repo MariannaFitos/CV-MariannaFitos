@@ -1,0 +1,16 @@
+#birdy{
+    position: absolute;
+}
+h1{text-align: center;
+padding: 10%;
+}
+
+#photo{
+    height: 120px;
+    margin-top: 120px;
+}
+
+#bio{
+    text-align: center;
+    padding-bottom: 30px;
+}
